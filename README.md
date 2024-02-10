@@ -2,6 +2,14 @@
 # Overview
 This repository contains code for performing data preparation, cleaning, exploration, and visualization on a dataset containing information about Netflix shows and movies. The dataset was for an assignment and includes tasks such as unzipping the dataset, addressing missing values, exploring data, and creating visualizations both in Python and R.
 
+# Getting Started
+ To run the Policy Management System:
+ * Ensure you have Python installed on your system. You can download it from here.
+ * Clone the repository to your local machine: https://github.com/PAUL-byte-spec/-Policy-Management-System-for-an-Insurance-Company.git
+ * Navigate to the project directory: cd policy-management-system
+ * Run the main script: python main.py
+
+
 # Files Included
   * Netflix_shows_movies.zip: The original dataset in a compressed format.
   * Netflix_ cleaned_dataset.csv: The cleaned dataset after addressing missing values.
