@@ -5,8 +5,8 @@ This repository contains code for performing data preparation, cleaning, explora
 # Getting Started
  To run the Policy Management System:
  * Ensure you have Python installed on your system. You can download it from here.
- * Clone the repository to your local machine: https://github.com/PAUL-byte-spec/-Policy-Management-System-for-an-Insurance-Company.git
- * Navigate to the project directory: cd policy-management-system
+ * Clone the repository to your local machine: https://github.com/PAUL-byte-spec/Netflix-Data-Visualization.git
+ * Navigate to the project directory: cd Netflix Movies1
  * Run the main script: python main.py
 
 
